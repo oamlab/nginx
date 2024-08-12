@@ -35,7 +35,7 @@
 ## 📚 Currently Sharing Content：
 
 - [Directory](./nginx)
-- [Use nginx for grayscale testing](./nginx/3181_Others/README.md)
+- [Use Nginx for grayscale testing](./nginx/3181_Others/README.md)
 - ...
 - ..
 - .

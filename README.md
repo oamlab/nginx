@@ -37,7 +37,7 @@
 ## 📚 当前分享内容：
 
 - [目录](./nginx)
-- [使用nginx做灰度测试](./nginx/3181_Others/README.md)
+- [使用Nginx做灰度测试](./nginx/3181_Others/README.md)
 - ...
 - ..
 - .
