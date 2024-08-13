@@ -1,16 +1,16 @@
 # 灰度分流
 
-![check-indices](./images/1.png)
-![check-indices](./images/2.png)
-![check-indices](./images/3.png)
-![check-indices](./images/4.png)
-![check-indices](./images/5.png)
-![check-indices](./images/6.png)
-![check-indices](./images/7.png)
-![check-indices](./images/8.png)
-![check-indices](./images/9.png)
-![check-indices](./images/10.png)
-![check-indices](./images/11.png)
+![check-indices](./images/1.jpg)
+![check-indices](./images/2.jpg)
+![check-indices](./images/3.jpg)
+![check-indices](./images/4.jpg)
+![check-indices](./images/5.jpg)
+![check-indices](./images/6.jpg)
+![check-indices](./images/7.jpg)
+![check-indices](./images/8.jpg)
+![check-indices](./images/9.jpg)
+![check-indices](./images/10.jpg)
+![check-indices](./images/11.jpg)
 
 ## 基于Nginx的灰度分流文档
 
