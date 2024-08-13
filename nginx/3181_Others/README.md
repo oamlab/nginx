@@ -1,5 +1,17 @@
 # 灰度分流
 
+![check-indices](./images/1.png)
+![check-indices](./images/2.png)
+![check-indices](./images/3.png)
+![check-indices](./images/4.png)
+![check-indices](./images/5.png)
+![check-indices](./images/6.png)
+![check-indices](./images/7.png)
+![check-indices](./images/8.png)
+![check-indices](./images/9.png)
+![check-indices](./images/10.png)
+![check-indices](./images/11.png)
+
 ## 基于Nginx的灰度分流文档
 
 灰度分流是一种重要的发布策略，允许我们在有限的用户群体中进行新版本的测试，从而减少对整个系统的影响。以下是基于Nginx实现灰度分流的步骤：
