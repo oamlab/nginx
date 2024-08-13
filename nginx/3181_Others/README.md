@@ -1,5 +1,3 @@
-# 灰度分流
-
 ![check-indices](./images/1.jpg)
 ![check-indices](./images/2.jpg)
 ![check-indices](./images/3.jpg)
@@ -12,9 +10,11 @@
 ![check-indices](./images/10.jpg)
 ![check-indices](./images/11.jpg)
 
-## 基于Nginx的灰度分流文档
+# 灰度发布
 
-灰度分流是一种重要的发布策略，允许我们在有限的用户群体中进行新版本的测试，从而减少对整个系统的影响。以下是基于Nginx实现灰度分流的步骤：
+## 基于Nginx的灰度发布文档
+
+灰度发布是一种重要的发布策略，允许我们在有限的用户群体中进行新版本的测试，从而减少对整个系统的影响。以下是基于Nginx实现灰度分流的步骤：
 
 ### 1. 安装和配置Nginx
 
@@ -39,7 +39,7 @@ http {
 
 ```
 
-### 3. 配置灰度分流策略
+### 3. 配置灰度发布策略
 
 可以通过Nginx的 `map` 指令来实现灰度分流。例如，根据特定的Cookie值来分流：
 
