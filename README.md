@@ -44,6 +44,7 @@
 
 ## 📃 其他资料
 - 资料1：[OAMLab.运维实验室.202211期.课题分享会.张楷熊老师.关于nginx的介绍和应急故障处理](https://github.com/oamlab/oamlab/tree/main/OAMLab/401_运维实验/2022-11)
+- 资料2：[使用Nginx实现HTTP/3，Nginx-QUIC](https://github.com/oamlab/nginx-quic)
 
 ## 📶 技术交流群
 深圳运维圈 QQ交流群：216589280 [点击加入](https://jq.qq.com/?_wv=1027&k=tdDtDoUp)
