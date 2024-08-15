@@ -42,6 +42,7 @@
 
 ## 📃 Others
 - Part 1: [OAMLab . Operation and Maintenance Laboratory . Issue 202406 . Topic Sharing Meeting . Zhang Kaixiong . Introduction to nginx and emergency troubleshooting](https://github.com/oamlab/oamlab/tree/main/OAMLab/401_运维实验/2022-11)
+- Part 2: [Implementing HTTP/3 with Nginx, Nginx-QUIC](https://github.com/oamlab/nginx-quic)
 
 ## 📶 Technical Exchange Club
 (CN)SHENZHEN OAM CLUB, QQ group：216589280 [Click to join](https://jq.qq.com/?_wv=1027&k=tdDtDoUp)
