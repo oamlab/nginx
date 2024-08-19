@@ -21,24 +21,28 @@
 - [Online Documentation：https://github.com/oamlab/nginx](https://github.com/oamlab/nginx/blob/main/README.English.md)
 
 ## 🔋 Repository Contact
-| Full Name						 |CONTACT|
-|-----------------|-----------------|
-| **xxx**         | xxx@xxx.com      |
-| **xxx**         | xxx@xxx.com      |
+| Full Name          | CONTACT          |
+|--------------------|------------------|
+| **Zhang Kaixiong** | 759869080@qq.com |
+| **Yang Qiyong**    | 616903695@qq.com |
 
 ## 🔒 Background
-- XXX
+- Nginx is a high-performance HTTP and reverse proxy web server.
 
 ## 🔑 Purpose
-- XXX
+- Organize the usage of nginx.
 
 ## 📚 Currently Sharing Content：
 
 - [Directory](./nginx)
-- [Use Nginx for grayscale testing](./nginx/3181_Others/README.md)
+- [Grayscale release method based on Nginx](./nginx/3181_Others/README.md)
 - ...
 - ..
 - .
+
+## 📃 Others
+- Part 1: [OAMLab . Operation and Maintenance Laboratory . Issue 202406 . Topic Sharing Meeting . Zhang Kaixiong . Introduction to nginx and emergency troubleshooting](https://github.com/oamlab/oamlab/tree/main/OAMLab/401_运维实验/2022-11)
+- Part 2: [Implementing HTTP/3 with Nginx, Nginx-QUIC](https://github.com/oamlab/nginx-quic)
 
 ## 📶 Technical Exchange Club
 (CN)SHENZHEN OAM CLUB, QQ group：216589280 [Click to join](https://jq.qq.com/?_wv=1027&k=tdDtDoUp)
